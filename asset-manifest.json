@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/UHCodeRed24/static/css/main.bce78e8a.css",
+    "main.js": "/UHCodeRed24/static/js/main.cb139121.js",
+    "static/js/592.47aa6e6f.chunk.js": "/UHCodeRed24/static/js/592.47aa6e6f.chunk.js",
+    "static/media/PredictTotalWaste.png": "/UHCodeRed24/static/media/PredictTotalWaste.27a4d43aee541152b63d.png",
+    "static/media/PredictTotalGHGs.png": "/UHCodeRed24/static/media/PredictTotalGHGs.692085650f4ca8b40514.png",
+    "static/media/PredictTotalEnergy.png": "/UHCodeRed24/static/media/PredictTotalEnergy.8890dbb2d99aef76b031.png",
+    "index.html": "/UHCodeRed24/index.html",
+    "main.bce78e8a.css.map": "/UHCodeRed24/static/css/main.bce78e8a.css.map",
+    "main.cb139121.js.map": "/UHCodeRed24/static/js/main.cb139121.js.map",
+    "592.47aa6e6f.chunk.js.map": "/UHCodeRed24/static/js/592.47aa6e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bce78e8a.css",
+    "static/js/main.cb139121.js"
+  ]
+}
